@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/ClaxBitt/social-links-profile)
-- Live Site URL: [Add live site URL here](https://social-card-media-001.netlify.app)
+- Live Site URL: [Add live site URL here](https://social-links-profile-001.netlify.app)
 
 ## Author
 
